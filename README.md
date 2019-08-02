@@ -1,4 +1,4 @@
-# ofxFaceTimeGraph
+# wwFaceTimeGraph
 1D Graph plot of Face location from Video.
 
 ![example]( https://github.com/bemoregt/ofxFaceTimeGraph/blob/master/test.jpg "Example Screenshot")
